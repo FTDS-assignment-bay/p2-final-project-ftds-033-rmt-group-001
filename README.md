@@ -20,7 +20,7 @@ Try the model here [link](https://huggingface.co/spaces/junjung214/protego)
 ## Background
 Based on [stationX](https://www.stationx.net/phishing-statistics/#:~:text=Phishing%20is%20the%20single%20most,trillion%20phishing%20emails%20per%20year), estimated 3.4 billion emails are sent by cyber criminals per day. 
 Around 36% of all data breaches involve phishing. This is to say, an individual has risk 
-to follow or click any dangerous sources. With in this data, Protege show up to the stage to filter whether email is a fraud.
+to follow or click any dangerous sources. With in this data, Protego show up to the stage to filter whether email is a fraud.
 
 ## Objective
 Protego solved the problem by utilizing advanced natural Language Processing (NLP) techniques to quickly and accurately analyze email. By processing and understanding the content of the email, Protego able to determine fradulent email. 
@@ -40,7 +40,7 @@ The model is built using the following libraries:
 
 ## Result
 The model is able to predict whether an email is a fraud or not with 97% accuracy.
-#TODO! add confusion matrix or pict here
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
